@@ -1,0 +1,24 @@
+{
+  "itemGroup.kijinmod" : "new_itemtab",
+  "item.kijinmod.sakura_ingod" : "new_ingot",
+  "item.kijinmod.kijin_burger" : "new_meat",
+  "item.kijinmod.kijin_burger.desc" : "It tastes good!!!",
+  "item.kijinmod.item_zombie_stick_lv1" : "zombie summon",
+  "item.kijinmod.item_zombie_stick_lv2" : "monster crowd",
+  "item.kijinmod.item_many_zombie_stick" : "zombie summon",
+  "item.kijinmod.item_guard_zombie_stick" : "knight summon",
+  "item.kijinmod.item_skeleton_stick_lv1" : "skeleton summon",
+  "item.kijinmod.item_zombie_and_skeleton_stick" : "zombie skeleton summon",
+  "item.kijinmod.item_dragon_stick" : "dragon summon",
+  "item.kijinmod.item_player_teleport" : "teleport",
+  "item.kijinmod.removal_stick" : "diffusion",
+  "item.kijinmod.sphere_item" : "make sphere",
+  "item.kijinmod.make_friends_item" : "Satan's territory",
+  "block.kijinmod.sakura_block" : "new_block",
+  "block.kijinmod.magic_glass" : "transparent_block",
+  "block.kijinmod.magic_circle_block" : "magic_circle_block",
+  "item.kijinmod.speed_boost_item" : "Claimh Solais",
+  "item.kijinmod.custom_bow_item" : "magic book",
+  "item.kijinmod.custom_arrow_item" : "pointer"
+
+}

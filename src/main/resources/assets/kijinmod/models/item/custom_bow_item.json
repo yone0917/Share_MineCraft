@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "kijinmod:item/custom_bow_item"
+  }
+}
+
